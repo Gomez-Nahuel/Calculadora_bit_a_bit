@@ -1,3 +1,16 @@
+from colorama import Fore, Style
+
+def mostrar_menu():
+    print(Fore.YELLOW + " --------------------------- ")
+    print("")
+    print("Calculadora Bit a Bit")
+    print("")
+    print(Fore.BLACK + "1. AND (&)")
+    print("2. OR (|)")
+    print("3. XOR (^)")
+    print("0. Salir")
+    print(Fore.YELLOW + " --------------------------- ")
+
 def compuerta_and(numeroA, numeroB):
   numeroA, numeroB = emparejar_largos(numeroA, numeroB)
   resultado = ""
@@ -16,15 +29,6 @@ def compuerta_or(numeroA, numeroB):
       resultado += "1"
     else:
       resultado += "0"
-  return resultado
-
-def compuerta_not(numeroA):
-  resultado = ""
-  for i in range(len(numeroA)):
-    if numeroA[i] == "1":
-      resultado += "0"
-    else:
-      resultado += "1"
   return resultado
 
 def compuerta_xor(numeroA, numeroB):
