@@ -2,7 +2,13 @@
 
 Trabajo práctico realizado para Matemática 1 en conjunto con Programación 1 para la carrera de Tecnicatura en Programación a Distancia de la Universidad Nacional Tecnológica ( TUPaD - UTN ).
 
-<!-- INCERTAR DATOS DE ALUMNOS Y COMISION -->
+- COMISION: M2025-14
+- ALUMNOS:
+    Javier Gonzalez
+    Federico Esteban Garcia
+    Nahuel Gomez
+    Alexis Gomez Gonzalez
+    Federico Garcia Bengolea
 
 Una calculadora diseñada para realizar operaciones bit a bit y verificar el funcionamiento de las compuertas lógicas **AND**, **OR** y **XOR**.
 
@@ -19,8 +25,9 @@ Es como decir "Solo una condición puede cumplirse, pero no ambas".
 
 ## ¿Cómo funciona?
 
-1. **Entrada de datos:** El usuario introduce dos números en formato decimal.
-2. **Conversión a binario:** Los números son convertidos automáticamente a su representación binaria.
-3. **Operaciones:** Se ejecutan las compuertas lógicas AND, OR y XOR sobre los números binarios.
-4. **Resultado:** Los resultados de cada operación son mostrados al usuario.
+1. **Menu de ingreso**: Se inicia el programa con un menu opcional.
+2. **Entrada de datos:** El usuario introduce dos números en formato decimal.
+3. **Conversión a binario:** Los números son convertidos a su representación binaria.
+4. **Operaciones:** Se ejecutan las compuertas lógicas AND, OR y XOR que haya elegido el usuario sobre los números binarios.
+5. **Resultado:** Los resultados de cada operación son mostrados por consola.
 
