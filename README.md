@@ -6,7 +6,7 @@ Trabajo práctico realizado para Matemática 1 en conjunto con Programación 1 p
 - ALUMNOS:
   * Javier Gonzalez
   * Federico Esteban Garcia
-  * Nahuel Gomez
+  * Augusto Nahuel Gomez Saucedo
   * Alexis Gomez Gonzalez
   * Federico Garcia Bengolea
 
