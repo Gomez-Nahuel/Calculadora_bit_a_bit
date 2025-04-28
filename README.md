@@ -12,7 +12,8 @@ Trabajo práctico realizado para Matemática 1 en conjunto con Programación 1 p
 
 Una calculadora diseñada para realizar operaciones bit a bit y verificar el funcionamiento de las compuertas lógicas **AND**, **OR** y **XOR**.
 
-<!-- INSERTAR VIDEO DE PRESENTACIÓN -->
+### Video de presentación de Calculadora bit a bit
+[![Video de presentacion Calculadora bit a bit](https://img.youtube.com/vi/Ss4Pq-CmqXg/0.jpg)](https://www.youtube.com/watch?v=Ss4Pq-CmqXg)
 
 ## Características
 
